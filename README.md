@@ -10,6 +10,9 @@ https://regexr.com/
 ```
 /expressão regular/
 ```
+
+### Opções de Execução - Flags
+
 2 - Flags são as letras que ficam no final da expressão regular EX:
 ```
 /expressão regular/g
@@ -18,6 +21,6 @@ g - (global): Diz que ele vai selecionar todas as ocorrencias que encontrar não
 
 i - (case insensitive): Não vai fazer distinsão entre maiúsculo e minúsculo
 
-
+m - (multiline): modifica o significado de ^ e $, assim ele executa associandoo inicio e fim, respectivamente, de alguma linha
 
 https://www.youtube.com/watch?v=tlVI8mV1dQY

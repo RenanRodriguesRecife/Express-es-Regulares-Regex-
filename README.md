@@ -23,4 +23,29 @@ i - (case insensitive): Não vai fazer distinsão entre maiúsculo e minúsculo
 
 m - (multiline): modifica o significado de ^ e $, assim ele executa associandoo inicio e fim, respectivamente, de alguma linha
 
+### Teste de Expressão regular (java script)
+
+- Tem duas formas: Usando uma string para testar um expressão e usando uma expressão para testar uma string.
+
+Usando o texto para testar a expressão regular:
+```javascript
+
+let text = 'este é um texto';
+let regex = /texto/g;
+
+let results = text.match(regex);
+console.log(results);
+```
+
+usando uma expressão para testar uma string.
+```javascript
+
+let text = 'este é um texto';
+let regex = /texto/g;
+
+let results = regex.exec(text);
+console.log(results);
+```
+
+
 https://www.youtube.com/watch?v=tlVI8mV1dQY

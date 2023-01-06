@@ -45,6 +45,11 @@ let regex = /texto/g;
 
 let results = regex.exec(text);
 console.log(results);
+
+//ou
+
+let results = regex.test(text);
+console.log(results);
 ```
 
 

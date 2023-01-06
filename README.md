@@ -6,7 +6,17 @@ Uma expressão regular, ou Regex, são padrões utilizados para identificar dete
 Site usado para fazer teste de Expressões Regulares:
 https://regexr.com/
 
+1 - toda expressão regular fica entre duas barras:
+```
+/expressão regular/
+```
+2 - Flags são as letras que ficam no final da expressão regular EX:
+```
+/expressão regular/g
+```
+g - (global): Diz que ele vai selecionar todas as ocorrencias que encontrar não só a primeira.
 
+i - (case insensitive): Não vai fazer distinsão entre maiúsculo e minúsculo
 
 
 

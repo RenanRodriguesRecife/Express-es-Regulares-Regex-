@@ -56,25 +56,25 @@ console.log(results);
 
 . - qualquar caractere exceto o '\n'
 
-<img src="01.JPG">
+<img src=".assets/01.JPG">
 
 Quando você coloca um acaracter mais um ponto: Ele vai selecioar apenas o que tem o caractere seguido de qualquer outra letra.
 
-<img src="02.JPG">
+<img src=".assets/02.JPG">
 
 | (ou) ou ele vai pegar um elemento ou outro
 
 Ex: Você quer selecionar um "e" ou "é"
 
-<img src="03.JPG">
+<img src=".assets/03.JPG">
 
 agrupamento: Você usa o () para formar um grupo
 
-<img src="04.JPG">
+<img src=".assets/04.JPG">
 
 padrão: é usado []. ele pega cada caractere individulmente (ele não pega sequencialmente).
 
-<img src="05.JPG">
+<img src=".assets/05.JPG">
 
 Repare que ele não pega a palavra texto e sim cada caractere individual
 
@@ -87,7 +87,7 @@ Ex:
 /[a-e]/g
 ```
 
-<img src="06.JPG">
+<img src=".assets/06.JPG">
 
 - Pegar todas as letras de "a" a "z"
 
@@ -95,7 +95,7 @@ Ex:
 /[a-z]/g
 ```
 
-<img src="07.JPG">
+<img src=".assets/07.JPG">
 
 - Pegar todos os algarismos de 0 a 9
 
@@ -103,11 +103,11 @@ Ex:
 /[0-9]/g
 ```
 
-<img src="08.JPG">
+<img src=".assets/08.JPG">
 
 ^ (negar) - significa que vai pegar todos os elementos **menos** os caracteres destacados
 
-<img src="09.JPG">
+<img src=".assets/09.JPG">
 
 note que ele pegou todos os caracteres menos o "e" eo "t"
 

@@ -155,7 +155,7 @@ você pode pegar caracteteres que se repetem no intervalo
 
 - Para pegar literalmente o caractere especial usado na busca pelo Regex. Usa uma barra invertida: Ex: \. \$ \? \+
 
-<img src=".assets/20.JPG">
+<img src=".assets/20.jpg">
 
 
 

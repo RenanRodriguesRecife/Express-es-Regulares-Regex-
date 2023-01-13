@@ -141,5 +141,13 @@ note que caracteres especiais, letras maiusculas e numeros não foram pegos
 
 <img src=".assets/16.JPG">
 
+você pode pegar caracteteres que se repetem no intervalo
+
+<img src=".assets/17.JPG">
+
+- ^ no incio - ele pega a expressão ou caractere se ele começa no início da frase.
+
+<img src=".assets/18.JPG">
+
 https://www.youtube.com/watch?v=tlVI8mV1dQY
 

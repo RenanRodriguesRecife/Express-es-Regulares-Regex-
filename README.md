@@ -149,5 +149,9 @@ você pode pegar caracteteres que se repetem no intervalo
 
 <img src=".assets/18.jpg">
 
+- $ no final - ele pega a expressão ou caractere se ele termina o final da frase com a expressão.
+
+<img src=".assets/19.JPG">
+
 https://www.youtube.com/watch?v=tlVI8mV1dQY
 

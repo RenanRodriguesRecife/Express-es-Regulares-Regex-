@@ -147,7 +147,7 @@ você pode pegar caracteteres que se repetem no intervalo
 
 - ^ no incio - ele pega a expressão ou caractere se ele começa no início da frase.
 
-<img src=".assets/18.JPG">
+<img src=".assets/18.jpg">
 
 https://www.youtube.com/watch?v=tlVI8mV1dQY
 

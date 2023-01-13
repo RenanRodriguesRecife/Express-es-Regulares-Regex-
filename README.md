@@ -111,7 +111,13 @@ Ex:
 
 note que ele pegou todos os caracteres menos o "e" eo "t"
 
-22:20
+- Pega a sequencia de caracteres. Nesse caso minúsculo de a - z
+
+<img src=".assets/10.JPG">
+
+note que caracteres especiais letras maiusculas e numeros não foram pegos
+
+- 
 
 https://www.youtube.com/watch?v=tlVI8mV1dQY
 

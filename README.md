@@ -158,6 +158,15 @@ você pode pegar caracteteres que se repetem no intervalo
 <img src=".assets/20.jpg">
 
 
+## Ex:
+
+### Buscar Email:
+
+<img src=".assets/email.jpg">
+
+Obs: essas expressão não pega todo o tipo de email
+
+<img src=".assets/email2.jpg">
 
 
 

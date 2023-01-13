@@ -168,6 +168,10 @@ Obs: essas expressão não pega todo o tipo de email
 
 <img src=".assets/email2.JPG">
 
+### Buscar Telefone:
 
+<img src=".assets/tel.JPG">
+
+obs: o ``` \s ``` significa espaço
 
 https://www.youtube.com/watch?v=tlVI8mV1dQY

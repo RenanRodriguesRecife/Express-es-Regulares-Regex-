@@ -162,11 +162,11 @@ você pode pegar caracteteres que se repetem no intervalo
 
 ### Buscar Email:
 
-<img src=".assets/email.jpg">
+<img src=".assets/email.JPG">
 
 Obs: essas expressão não pega todo o tipo de email
 
-<img src=".assets/email2.jpg">
+<img src=".assets/email2.JPG">
 
 
 

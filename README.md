@@ -153,7 +153,7 @@ você pode pegar caracteteres que se repetem no intervalo
 
 <img src=".assets/19.JPG">
 
-- Para pegar literalmente o caractere especial usado na busca pelo Regex. Usa uma barra invertida: Ex: \. \$ \? \+
+- Para pegar literalmente o caractere especial usado na busca pelo Regex. Usa uma barra invertida: Ex: ``` \. \$ \? \+ ```
 
 <img src=".assets/20.jpg">
 

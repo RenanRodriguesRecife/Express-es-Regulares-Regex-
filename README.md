@@ -115,9 +115,31 @@ note que ele pegou todos os caracteres menos o "e" eo "t"
 
 <img src=".assets/10.JPG">
 
-note que caracteres especiais letras maiusculas e numeros não foram pegos
+note que caracteres especiais, letras maiusculas e numeros não foram pegos
 
-- 
+- Pega a sequencia de caracteres em maiusculo. 
+
+<img src=".assets/11.JPG">
+
+- . O ponto significa que vai pegar o caractere mais qualquer coisa que está do lado direito do caractere
+
+<img src=".assets/12.JPG">
+
+- + O (+) ele vai pegar o caractere e um grupo de dois dos mesmos caracteres seguidos.
+
+<img src=".assets/13.JPG">
+
+- * o caractere que precede o asterisco pode ser repetido 0 ou mais vezes
+
+<img src=".assets/14.JPG">
+
+- ? Refere que o grupo é opcional ele vai retornar true tendo ou não aquele grupo.
+
+<img src=".assets/15.JPG">
+
+- caractere{numero_vezes} - repetição com número exatos.
+
+<img src=".assets/16.JPG">
 
 https://www.youtube.com/watch?v=tlVI8mV1dQY
 
